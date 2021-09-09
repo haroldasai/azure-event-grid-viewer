@@ -15,7 +15,7 @@ using viewer.Models;
 
 namespace viewer.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("viewer/api/[controller]")]
     public class UpdatesController : Controller
     {
         #region Data Members
